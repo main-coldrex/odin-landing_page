@@ -1,0 +1,51 @@
+body{
+
+    margin: 0;
+    
+}
+
+.firstp{
+
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+    background-color: #1F2937;
+    flex-direction: column;
+}
+
+.head{
+    display: flex;
+    border: 3px solid red;
+    width: 100%;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+ul{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.secondhead{
+    display: flex;
+    border: 3px solid green;
+    justify-content: space-around;
+    
+}
+
+.shs{
+
+    border: 5px solid yellow;
+
+
+}
+
+.placeholderi{
+
+    border: 5px solid blue;
+}
