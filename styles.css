@@ -240,7 +240,7 @@ h1{
 }
 
 .fourthp{
-    border: 3px solid red;
+    
     padding: 80px;
     display: flex;
     justify-content: center;
@@ -249,7 +249,7 @@ h1{
 .actionc{
 
 
-    border: 3px solid green ;
+    
     display: flex;
     background-color: #3882F6;
     padding: 30px;
@@ -261,13 +261,13 @@ h1{
 
 .cta{
 
-    border : 3px solid yellow;
+    
 
 }
 
 .secondbutton{
     display: flex;
-    border: 3px solid brown;
+    
     align-items: center;
 
 }
@@ -295,4 +295,19 @@ h1{
     border-radius: 5px;
     border-color: white;
     font-weight: bolder;
+}
+
+.footer{
+
+    display: flex;
+    justify-content: center;
+    
+    background-color: #1F2937;
+    
+}
+
+.footert{
+
+    color: white;
+    padding: 25px;
 }
