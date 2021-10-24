@@ -10,7 +10,7 @@ body{
     margin: 0;
     padding: 0;
     flex: 1;
-    background-color: #1F2937;
+    background-color: #ec9044;
     flex-direction: column;
     
 }
@@ -109,10 +109,8 @@ p{
 
     display: flex;
     
-    background-color: gray;
-    padding: 110px;
-    padding-left: 130px;
-    padding-right: 130px;
+    
+    
     margin-top: 10px;
     margin-bottom: 10px;
     justify-content: center;
@@ -163,10 +161,10 @@ h1{
 
 .box{
 
-    padding: 80px;
-    padding-bottom: 180px;
-    border: 6px solid blue;
+    border: 6px solid orange;
     border-radius: 12px;
+    
+   
 }
 
 .box1{
@@ -251,12 +249,12 @@ h1{
 
     
     display: flex;
-    background-color: #3882F6;
+    background-color: #f68e38;
     padding: 30px;
     border-radius: 12px;
     padding-left: 300px;
     padding-right:300px;
-    gap: 10px;
+    gap: 25px;
 }
 
 .cta{
@@ -302,7 +300,10 @@ h1{
     display: flex;
     justify-content: center;
     
-    background-color: #1F2937;
+    background-color: #ec9044;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
 
@@ -310,4 +311,5 @@ h1{
 
     color: white;
     padding: 25px;
+    margin: 0;
 }
