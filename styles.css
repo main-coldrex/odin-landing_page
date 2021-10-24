@@ -140,7 +140,7 @@ h1{
 
 .secondp{
 
-    border: 3px solid red;
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -149,12 +149,12 @@ h1{
 
 .tr{
 
-    border: 3px solid orange;
+    
 }
 
 .spc{
 
-    border: 3px solid green;
+    
     display: flex;
     padding: 10px;
     gap: 20px;
@@ -201,4 +201,39 @@ h1{
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+
+.thirdp{
+
+    border: 3px solid orange;
+    background-color: #E5E7EB;
+    padding: 150px;
+    
+}
+
+.firstpa{
+
+    display: flex;
+
+    justify-content: center;
+}
+
+.firstpat{
+
+    text-align:justify;
+    font-size: 36px;
+    font-style: italic;
+}
+
+
+.secondpa{
+
+    display: flex;
+    justify-content: end;
+}
+.secondpat{
+
+    font-size: 36px;
+    font-weight: bolder;
 }
