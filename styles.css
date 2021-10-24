@@ -12,7 +12,7 @@ body{
     flex: 1;
     background-color: #1F2937;
     flex-direction: column;
-    border: 3px solid lightpink;
+    
 }
 
 .head{
@@ -145,6 +145,7 @@ h1{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 50px;
 }
 
 .tr{
@@ -206,7 +207,7 @@ h1{
 
 .thirdp{
 
-    border: 3px solid orange;
+    
     background-color: #E5E7EB;
     padding: 150px;
     
@@ -235,5 +236,63 @@ h1{
 .secondpat{
 
     font-size: 36px;
+    font-weight: bolder;
+}
+
+.fourthp{
+    border: 3px solid red;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.actionc{
+
+
+    border: 3px solid green ;
+    display: flex;
+    background-color: #3882F6;
+    padding: 30px;
+    border-radius: 12px;
+    padding-left: 300px;
+    padding-right:300px;
+    gap: 10px;
+}
+
+.cta{
+
+    border : 3px solid yellow;
+
+}
+
+.secondbutton{
+    display: flex;
+    border: 3px solid brown;
+    align-items: center;
+
+}
+
+.h4{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color: white;
+}
+
+.p4{
+
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.button2{
+
+    width:100px;
+    height:30px;
+    background-color: #3882F6 ;
+    color: white; 
+    border-radius: 5px;
+    border-color: white;
     font-weight: bolder;
 }
